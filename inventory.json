@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-10-25T16:32:47",
+  "generated_at": "2026-10-25T23:26:29",
   "vehicle_count": 234,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -112,7 +112,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 11995.0,
+      "price": 10995.0,
       "price_currency": "CAD"
     },
     {
@@ -169,7 +169,7 @@
       "condition": "used"
     },
     {
-      "name": "2018 Nissan Rogue SL AWD - FULLY LOADED - SAFETY SHIELD!",
+      "name": "2018 Nissan Rogue SL AWD - UPGRADED INTERIOR - LOW KM!",
       "vin": "5N1AT2MV4JC738845",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/c194dcaf26f0.html",
       "year": 2018,
@@ -202,7 +202,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Audi Q5 Progressiv 45 TFSI quattro - LUXURY - SMOOTH RIDE!",
+      "name": "2019 Audi Q5 Progressiv 45 TFSI quattro - AWD - TECH LOADED",
       "vin": "WA1BNAFYXK2102324",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e0235b97b98f.html",
       "year": 2019,
@@ -576,7 +576,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Tucson Preferred AWD - PRACTICAL - BOLD STYLING!",
+      "name": "2024 Hyundai Tucson Preferred AWD - DRIVE ASSIST - ONE OWNER!",
       "vin": "KM8JBCDE4RU265219",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/05286a8f8466.html",
       "year": 2024,
