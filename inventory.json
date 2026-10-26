@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-10-26T01:46:28",
-  "vehicle_count": 233,
+  "generated_at": "2026-10-26T08:02:52",
+  "vehicle_count": 227,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -58,17 +58,6 @@
       "model": "Fit",
       "condition": "used",
       "price": 17998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Lexus RX ",
-      "vin": "2T2BK1BA8FC255309",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/515d31d5d0fa.html",
-      "year": 2015,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -160,15 +149,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Hyundai Elantra",
-      "vin": "KMHD84LF7JU606242",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/b50f4cbc0b1b.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used"
-    },
-    {
       "name": "2018 Nissan Rogue SL AWD - UPGRADED INTERIOR - LOW KM!",
       "vin": "5N1AT2MV4JC738845",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/c194dcaf26f0.html",
@@ -210,17 +190,6 @@
       "model": "Q5",
       "condition": "used",
       "price": 23495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volvo XC40 T5 AWD R-Design - SPORTY - STYLISH!",
-      "vin": "YV4162UM4K2137362",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/c413fb3338e9.html",
-      "year": 2019,
-      "make": "Volvo",
-      "model": "XC40",
-      "condition": "used",
-      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -462,7 +431,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 23995.0,
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -499,17 +468,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Rogue AWD Platinum - FULLY LOADED - NO ACCIDENTS!",
-      "vin": "JN8BT3DD1PW321507",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/ba86a27d0262.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Subaru WRX Sport CVT - RALLY INSPIRED PERFORMANCE!",
       "vin": "JF1VBAH64P8820405",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/750f17062aed.html",
@@ -518,17 +476,6 @@
       "model": "WRX",
       "condition": "used",
       "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Atlas Highline 4MOTION - 3 ROW - R LINE PACKAGE!",
-      "vin": "1V2SR2CAXPC553387",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/64e6f0dbd7d6.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -572,7 +519,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 36995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -671,7 +618,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "used",
-      "price": 26995.0,
+      "price": 26495.0,
       "price_currency": "CAD"
     },
     {
@@ -733,17 +680,6 @@
       "name": "2025 Honda CR-V LX AWD - LOW MILEAGE - PRACTICAL!",
       "vin": "2HKRS4H23SH112134",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/368f344b234e.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V Sport AWD - VERSATILE SIZE - CAPABLE!",
-      "vin": "2HKRS4H54SH107471",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9009e7cd8230.html",
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
