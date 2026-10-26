@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-10-25T23:26:29",
-  "vehicle_count": 234,
+  "generated_at": "2026-10-26T01:46:28",
+  "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1090,17 +1090,6 @@
       "model": "Civic Hybrid",
       "condition": "new",
       "price": 40105.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Sedan Hybrid Sport Touring",
-      "vin": "2HGFE4F87TH011627",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/b6d6459027e4.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 40205.0,
       "price_currency": "CAD"
     },
     {
