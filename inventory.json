@@ -1,10 +1,21 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-10-26T10:15:44",
-  "vehicle_count": 227,
+  "generated_at": "2026-11-17T09:29:47",
+  "vehicle_count": 216,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2009 Mazda CX-7 GT AWD - WELL MAINTAINED - FULLY LOADED!",
+      "vin": "JM3ER293690227671",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/2be36e6f222e.html",
+      "year": 2009,
+      "make": "Mazda",
+      "model": "CX-7 GT AWD - WELL MAINTAINED - FULLY LOADED!",
+      "condition": "used",
+      "price": 9995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2011 BMW 3 Series Sedan xDrive - STYLISH - WELL MAINTAINED - AWD!",
       "vin": "WBAPK7C51BA818274",
@@ -17,10 +28,21 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Nissan Altima 2.5 SV - SPACIOUS - COMFORTABLE SEDAN!",
-      "vin": "1N4AL3AP6DN507380",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/bf0a76b9dbe2.html",
-      "year": 2013,
+      "name": "2011 Honda CR-V EX 4WD - GREAT CONDITION - WELL MAINTAINED!",
+      "vin": "5J6RE4H5XBL812546",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/77f7dd042fb9.html",
+      "year": 2011,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 13995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2012 Nissan Altima 2.5 SL - LEATHER INTERIOR - WELL MAINTAINED!",
+      "vin": "1N4AL2AP6CN481534",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/38ef0ec24068.html",
+      "year": 2012,
       "make": "Nissan",
       "model": "Altima",
       "condition": "used",
@@ -35,29 +57,7 @@
       "make": "Honda",
       "model": "Civic Sedan 4dr CVT LX-RELIABLE-ULTRA LOW MILEAGE-SAFETY INSP.",
       "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Honda CR-V AWD 5dr EX-L - WELL MAINTAINED - VERSATILE!",
-      "vin": "2HKRM4H78FH120886",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9c8b8385acaa.html",
-      "year": 2015,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Honda Fit EX CVT - SPACIOUS SIZE - COMPACT FOOTPRINT!",
-      "vin": "3HGGK5H83FM106966",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/5e8d17e0bfd9.html",
-      "year": 2015,
-      "make": "Honda",
-      "model": "Fit",
-      "condition": "used",
-      "price": 17998.0,
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
@@ -79,7 +79,7 @@
       "make": "BMW",
       "model": "X5",
       "condition": "used",
-      "price": 19995.0,
+      "price": 16999.0,
       "price_currency": "CAD"
     },
     {
@@ -94,36 +94,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Hyundai Elantra GT GLS - MANUAL - PRACTICAL FUN!",
-      "vin": "KMHD35LH8GU328014",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/8c00c876b98b.html",
+      "name": "2016 Honda Fit EX-L - NAVIGATION - LEATHER INTERIOR!",
+      "vin": "3HGGK5H8XGM101720",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/6fad563270d9.html",
       "year": 2016,
+      "make": "Honda",
+      "model": "Fit",
+      "condition": "used",
+      "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Honda Civic Sedan EX CVT - GREAT FAMILY CAR!",
+      "vin": "2HGFC2F84HH040844",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/cbe0bc1fb96e.html",
+      "year": 2017,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Hyundai Santa Fe Sport SE AWD - UPGRADED TRIM – LEATHER COMFORT!",
+      "vin": "5NMZUDLB0HH040025",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9e6503fcca1a.html",
+      "year": 2017,
       "make": "Hyundai",
-      "model": "Elantra",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 10995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 BMW 3 Series Sedan 320i xDrive - SPORTY DRIVING DYNAMICS!",
-      "vin": "WBA8E5G35HNU43418",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/ea5bc38f7331.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "used",
-      "price": 15495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Mazda CX-5 GT AWD - PREMIUM - LOCAL - FULLY SERVICED!",
-      "vin": "JM3KFBDL5H0173331",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9ab151a1bfc5.html",
-      "year": 2017,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 24995.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -134,18 +134,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 22495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Fit LX CVT - HONDA SENSING - PRACTICAL SIZE!",
-      "vin": "3HGGK5H50JM100282",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/fdbc0219432c.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Fit",
-      "condition": "used",
-      "price": 16495.0,
+      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
@@ -160,36 +149,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota C-HR XLE - PRACTICAL SIZE - WELL EQUIPPED!",
+      "name": "2018 Toyota C-HR XLE PREMIUM- PRACTICAL SIZE - 4 X WINTER TIRES",
       "vin": "NMTKHMBX2JR001344",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/78caf274c0f4.html",
       "year": 2018,
       "make": "Toyota",
       "model": "C-HR",
       "condition": "used",
-      "price": 19495.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Acura RDX Technology AWD - FEATURE PACKED - LUXURIOUS!",
-      "vin": "5J8TC2H32KL800641",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/916d2ee483fc.html",
+      "name": "2019 Honda CR-V LX AWD - SPACIOUS - HONDA SENSING!",
+      "vin": "2HKRW2H26KH152099",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/ea8ee8fc662e.html",
       "year": 2019,
-      "make": "Acura",
-      "model": "RDX",
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Audi Q5 Progressiv 45 TFSI quattro - AWD - TECH LOADED",
-      "vin": "WA1BNAFYXK2102324",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e0235b97b98f.html",
-      "year": 2019,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 23495.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -200,7 +178,27 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 31499.0,
+      "price": 30998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Mitsubishi Outlander",
+      "vin": "JA4AZ2A30LJ600220",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e8b1f0356344.html",
+      "year": 2020,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Nissan Kicks SV FWD - SPORTY- URBAN CROSSOVER!",
+      "vin": "3N1CP5CV7LL541554",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/729c186b9b31.html",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -215,14 +213,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Porsche Cayenne Coupe S Coupe AWD - SPORTY UTILITY - COUPE DESIGN!",
+      "name": "2020 Porsche Cayenne S Coupe AWD - SPORTY UTILITY - COUPE DESIGN!",
       "vin": "WP1BB2AY5LDA57860",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/277ec2128639.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/cac1bd566717.html",
       "year": 2020,
       "make": "Porsche",
       "model": "Cayenne",
       "condition": "used",
-      "price": 63995.0,
+      "price": 61998.0,
       "price_currency": "CAD"
     },
     {
@@ -237,14 +235,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Toyota Corolla Sedan SE CVT - SPORT TRIM  CARPLAY  SAFETY TECH",
-      "vin": "5YFB4RBE1LP006104",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/10b979cadf62.html",
+      "name": "2020 Toyota C-HR Limited FWD - WELL EQUIPPED - UNIQUE STYLE!",
+      "vin": "JTNKHMBX8L1066549",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/ce57ac4b0f92.html",
       "year": 2020,
       "make": "Toyota",
-      "model": "Corolla",
+      "model": "C-HR",
       "condition": "used",
-      "price": 22995.0,
+      "price": 23695.0,
       "price_currency": "CAD"
     },
     {
@@ -255,18 +253,18 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 28495.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Toyota RAV4 XLE AWD - WELL EQUIPPED!",
-      "vin": "2T3R1RFV2LW107417",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/6a20bb9211c5.html",
+      "name": "2020 Volkswagen Tiguan Highline 4MOTION - FENDER AUDIO - PREMIUM!",
+      "vin": "3VV4B7AX8LM052477",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/73b2277ab79f.html",
       "year": 2020,
-      "make": "Toyota",
-      "model": "RAV4",
+      "make": "Volkswagen",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 29495.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -277,7 +275,7 @@
       "make": "BMW",
       "model": "3 Series",
       "condition": "used",
-      "price": 29999.0,
+      "price": 27498.0,
       "price_currency": "CAD"
     },
     {
@@ -288,7 +286,7 @@
       "make": "BMW",
       "model": "X1",
       "condition": "used",
-      "price": 24995.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -303,17 +301,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Trailblazer LT AWD - PRACTICAL SIZE - VERSATILE!",
-      "vin": "KL79MRSL0MB169675",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/1e3c43662f36.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "used",
-      "price": 20995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Honda CR-V Touring AWD - FULLY LOADED - CERTIFIED!",
       "vin": "2HKRW2H95MH223227",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/455efe013e32.html",
@@ -321,95 +308,40 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 31495.0,
+      "price": 30998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Elantra N Line DCT - SPORTY - PRACTICAL!",
-      "vin": "KMHLR4AF5MU130380",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/3a3e4561e0be.html",
+      "name": "2021 Nissan Qashqai S FWD - PRACTICAL CITY CROSSOVER!",
+      "vin": "JN1BJ1AV1MW311724",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/af7e561ca251.html",
       "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra",
+      "make": "Nissan",
+      "model": "Qashqai",
       "condition": "used",
-      "price": 17995.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Corolla Hatchback XSE - SPORTY STYLE - HATCHBACK PRACTICALITY!",
-      "vin": "JTNK4MBE4M3135141",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e0945fa3d106.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota RAV4 Limited AWD - FULLY LOADED - NAVI -LEATHER!",
-      "vin": "2T3D1RFV1MW154062",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/3efc39faf20b.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Golf Hatchback Highline - TOP TRIM - WELL EQUIPPED!",
-      "vin": "3VWG57AU7MM001804",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/d7f2a97a2a16.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used",
-      "price": 16998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Civic Sedan LX CVT - CERTIFIED - GREAT FAMILY CAR!",
-      "vin": "2HGFE2F21NH119647",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/25481d0cc04e.html",
+      "name": "2022 Mercedes-Benz GLA 4MATIC - LUXURIOUS - COMPACT PRACTICALITY!",
+      "vin": "W1N4N4HBXNJ358474",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/f282b85244a6.html",
       "year": 2022,
-      "make": "Honda",
-      "model": "Civic",
+      "make": "Mercedes-Benz",
+      "model": "GLA",
       "condition": "used",
-      "price": 23995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Mazda CX-30 GT Auto AWD - FULLY LOADED  SPORTY  BOSE SOUND",
-      "vin": "3MVDMBDL3NM427116",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e5c6b9e01f64.html",
-      "year": 2022,
-      "make": "Mazda",
-      "model": "CX-30",
+      "name": "2023 Acura MDX A-Spec",
+      "vin": "5J8YE1H01PL802971",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/555e291b8b14.html",
+      "year": 2023,
+      "make": "Acura",
+      "model": "MDX",
       "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota Highlander Hybrid Limited - PLATINUM - FULLY LOADED - 3 ROW COMFORT!",
-      "vin": "5TDEBRCH8NS096471",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/11297d351f57.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Highlander Hybrid",
-      "condition": "used",
-      "price": 53995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota RAV4 Hybrid Hybrid XLE AWD - FUEL EFFICIENT PRACTICALITY!",
-      "vin": "2T3RWRFV0NW140615",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/578f84aeb459.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid Hybrid",
-      "condition": "used",
-      "price": 29495.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -420,18 +352,27 @@
       "make": "BMW",
       "model": "iX",
       "condition": "used",
-      "price": 58995.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda Civic Sedan LX CVT - CERTIFIED - GREAT FAMILY SEDAN!",
-      "vin": "2HGFE2F23PH106434",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/8a11426014a8.html",
+      "name": "2023 Ford Maverick",
+      "vin": "3FTTW8F93PRB00698",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/4003af909086.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Honda CR-V EX-L AWD - CERTIFIED - PRACTICAL!",
+      "vin": "2HKRS4H72PH107459",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9263b219efb4.html",
       "year": 2023,
       "make": "Honda",
-      "model": "Civic",
+      "model": "CR-V",
       "condition": "used",
-      "price": 22995.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -446,47 +387,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Kona 2.0L Preferred AWD - LEATHER - SUNROOF!",
-      "vin": "KM8K6CAB0PU061467",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/3596d85034bb.html",
+      "name": "2023 Honda Ridgeline EX-L AWD - CERTIFIED - TRUCK PRACTICALITY!",
+      "vin": "5FPYK3F51PB500821",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/3923266f2de6.html",
       "year": 2023,
-      "make": "Hyundai",
-      "model": "Kona",
+      "make": "Honda",
+      "model": "Ridgeline",
       "condition": "used",
-      "price": 24495.0,
+      "price": 48995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Seltos EX AWD - PRACTICAL SIZE AND USABILITY!",
-      "vin": "KNDEUCAA9P7461959",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/8c60fb0501e6.html",
+      "name": "2023 Mitsubishi Eclipse Cross SEL S-AWC - STYLISH - AWD COMFORT!",
+      "vin": "JA4ATVAA0PZ608794",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/73ad16c418a3.html",
       "year": 2023,
-      "make": "Kia",
-      "model": "Seltos",
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
       "condition": "used",
       "price": 23995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru WRX Sport CVT - RALLY INSPIRED PERFORMANCE!",
-      "vin": "JF1VBAH64P8820405",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/750f17062aed.html",
-      "year": 2023,
-      "make": "Subaru",
-      "model": "WRX",
+      "name": "2024 Chevrolet Colorado ZR2 4WD - TRAIL READY - RUGGED!",
+      "vin": "1GCPTFEK5R1122640",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/61cc1009c001.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Colorado",
       "condition": "used",
-      "price": 30995.0,
+      "price": 57995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volvo XC90 AWD Ultimate - MILD HYBRID - UNIQUE LUXURY!",
-      "vin": "YV4062PA0P1914128",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/6ceb908ef0e1.html",
-      "year": 2023,
-      "make": "Volvo",
-      "model": "XC90",
+      "name": "2024 Ford Bronco Sport Big Bend 4x4 - RUGGED - OFF ROAD READY!",
+      "vin": "3FMCR9B66RRE52312",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/2321b2c3af3b.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco Sport",
       "condition": "used",
-      "price": 49995.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -512,17 +453,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Honda CR-V Sport AWD - CERTIFIED - VERSATILE SUV!",
-      "vin": "2HKRS4H58RH101201",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/6975cf58731d.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Hyundai Tucson Preferred AWD - DRIVE ASSIST - ONE OWNER!",
       "vin": "KM8JBCDE4RU265219",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/05286a8f8466.html",
@@ -531,6 +461,17 @@
       "model": "Tucson",
       "condition": "used",
       "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Venue Essential IVT - COMPACT FOOTPRINT - PRACTICAL!",
+      "vin": "KMHRB8A30RU319859",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/b014da42e679.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "used",
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -545,28 +486,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi RVR ES FWD - PRACTICAL - GREAT EVERYDAY USE!",
-      "vin": "JA4AHUAU2RU604770",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/13cca2d912af.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 20997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Sentra SV CVT - PRACTICAL - STYLISH!",
-      "vin": "3N1AB8CV1RY358217",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/b1edfb030558.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 21495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Subaru BRZ Sport-tech Manual - ENTHUSIAST'S CAR - RWD FUN!",
       "vin": "JF1ZDBE16R9701522",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/8c2705b92636.html",
@@ -574,7 +493,7 @@
       "make": "Subaru",
       "model": "BRZ",
       "condition": "used",
-      "price": 31995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -585,7 +504,18 @@
       "make": "Toyota",
       "model": "GR86",
       "condition": "used",
-      "price": 37995.0,
+      "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortline 4MOTION - LEATHER - NAVIGATION!",
+      "vin": "3VVMB7AX9RM044462",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/8be5ef35202f.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -600,28 +530,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Civic Sedan Hybrid Sport Touring - HYBRID EFFICIENCY - FULLY LOADED!",
-      "vin": "2HGFE4F88SH018858",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/f2bfa195bfe9.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 34998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Sedan Hybrid Sport Hybrid - FUEL EFFICIENT - HONDA SENSING!",
-      "vin": "2HGFE4F85SH004142",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/cccc3db71cec.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 26495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda Civic Sedan Hybrid Sport Touring eCVT - FULLY LOADED - FUEL EFFICIENT",
       "vin": "2HGFE4F86SH003694",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/4f8041fd0378.html",
@@ -629,51 +537,29 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "used",
-      "price": 34995.0,
+      "price": 33998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Civic Sedan Hybrid Sport Touring - HYBRID EFFICIENCY - FULLY LOADED!",
-      "vin": "2HGFE4F80SH006574",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/cd1498e24b6b.html",
+      "name": "2025 Honda Civic Sedan Hybrid Sport Touring eCVT - FULLY LOADED - GREY INTERIOR!",
+      "vin": "2HGFE4F80SH004601",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/fae7c218bfe0.html",
       "year": 2025,
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Sedan Sport CVT - PRACTICAL - SPORTY!",
-      "vin": "2HGFE2F54SH100435",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9e2643d1a7ca.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V Hybrid Touring AWD - FULLY LOADED - TECH LOADED",
-      "vin": "2HKRS6H96SH217047",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/c8101c195964.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 42495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V LX AWD - PRACTICAL - WELL EQUIPPED!",
-      "vin": "2HKRS4H26SH102388",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e6f29a384a1d.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
       "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Honda CR-V Hybrid EX-L AWD - HYBRID EFFICIENCY - WELL EQUIPPED!",
+      "vin": "2HKRS6H75SH213828",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e2bb24c08c71.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -684,7 +570,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 34995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -695,7 +581,7 @@
       "make": "Ford",
       "model": "Maverick",
       "condition": "used",
-      "price": 43998.0,
+      "price": 41998.0,
       "price_currency": "CAD"
     },
     {
@@ -710,25 +596,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V LX AWD - LIKE NEW - SPACIOUS!",
-      "vin": "2HKRS4H2XTH104677",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9f958d7f820e.html",
+      "name": "2026 Honda CR-V Sport AWD - LIKE NEW - HONDA SENSING!",
+      "vin": "2HKRS4H56TH111944",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/3acd97e42a05.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Pilot Touring",
-      "vin": "5FNYG1H78TB500208",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/6b9ef48d9cb0.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 61995.0,
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
