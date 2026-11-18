@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-11-18T09:57:54",
+  "generated_at": "2026-11-18T12:16:04",
   "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -805,7 +805,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "new",
-      "price": 39955.0,
+      "price": 40205.0,
       "price_currency": "CAD"
     },
     {
@@ -937,7 +937,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "new",
-      "price": 40205.0,
+      "price": 40580.0,
       "price_currency": "CAD"
     },
     {
