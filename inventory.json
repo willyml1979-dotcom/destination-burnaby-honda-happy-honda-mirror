@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-11-18T00:51:25",
-  "vehicle_count": 235,
+  "generated_at": "2026-11-18T03:40:04",
+  "vehicle_count": 236,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -601,17 +601,6 @@
     },
     {
       "name": "2026 Honda Accord Hybrid Touring",
-      "vin": "1HGCY2F89TA800326",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/803cd7522fba.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Accord Hybrid",
-      "condition": "new",
-      "price": -1000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Accord Hybrid Touring",
       "vin": "1HGCY2F88TA800186",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/c6b3f813563f.html",
       "year": 2026,
@@ -1004,6 +993,17 @@
       "model": "Civic",
       "condition": "new",
       "price": 37204.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda Civic Sedan Sport",
+      "vin": "2HGFE2F51TH115220",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/574d9b1a3ce7.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 34805.0,
       "price_currency": "CAD"
     },
     {
@@ -1854,17 +1854,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda CR-V Hybrid TrailSport",
-      "vin": "2HKRS6H6XVH202996",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/c89c55ad3c52.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 50575.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H77VH201734",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/ad39752d96ec.html",
@@ -2206,6 +2195,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H90VH204167",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/0b4019b5354d.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 54475.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS4H59VH100035",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/ede4d01c8004.html",
@@ -2470,6 +2470,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Honda HR-V Sport",
+      "vin": "3CZRZ2H5XVM103644",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/d3b510e68eff.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 38075.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Honda HR-V EX-L",
       "vin": "3CZRZ2H70VM104108",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/new/5c2f11426268.html",
@@ -2477,7 +2488,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 41875.0,
+      "price": 41975.0,
       "price_currency": "CAD"
     },
     {
