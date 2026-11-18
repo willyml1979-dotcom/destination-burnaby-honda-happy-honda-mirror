@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-11-17T14:08:20",
-  "vehicle_count": 236,
+  "generated_at": "2026-11-18T00:51:25",
+  "vehicle_count": 235,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -24,7 +24,7 @@
       "make": "BMW",
       "model": "3 Series",
       "condition": "used",
-      "price": 12995.0,
+      "price": 11995.0,
       "price_currency": "CAD"
     },
     {
@@ -68,7 +68,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "used",
-      "price": 21995.0,
+      "price": 21495.0,
       "price_currency": "CAD"
     },
     {
@@ -127,6 +127,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Toyota Corolla SE CVT - SPORTY - TOYOTA RELIABILITY!",
+      "vin": "2T1BURHE4HC886374",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/3b8615d39a2d.html",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Audi Q5 Technik - TECH LOADED - QUATTRO AWD!",
       "vin": "WA1CNAFY9J2088404",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/85a5b50e9715.html",
@@ -145,7 +156,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 21995.0,
+      "price": 20495.0,
       "price_currency": "CAD"
     },
     {
@@ -182,15 +193,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Mitsubishi Outlander",
-      "vin": "JA4AZ2A30LJ600220",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e8b1f0356344.html",
-      "year": 2020,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used"
-    },
-    {
       "name": "2020 Nissan Kicks SV FWD - SPORTY- URBAN CROSSOVER!",
       "vin": "3N1CP5CV7LL541554",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/729c186b9b31.html",
@@ -209,7 +211,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 19995.0,
+      "price": 17495.0,
       "price_currency": "CAD"
     },
     {
@@ -231,7 +233,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 38995.0,
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
@@ -290,7 +292,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 BMW X3 xDrive30i - SPORTY - LUXURIOUS!",
+      "name": "2021 BMW X3 xDrive30i - PREMIUM SPORT HANDLING SUV!",
       "vin": "5UXTY5C04M9E00421",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/22e9a35e7753.html",
       "year": 2021,
@@ -356,15 +358,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Maverick",
-      "vin": "3FTTW8F93PRB00698",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/4003af909086.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "used"
-    },
-    {
       "name": "2023 Honda CR-V EX-L AWD - CERTIFIED - PRACTICAL!",
       "vin": "2HKRS4H72PH107459",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/9263b219efb4.html",
@@ -383,7 +376,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "used",
-      "price": 28495.0,
+      "price": 26495.0,
       "price_currency": "CAD"
     },
     {
@@ -438,7 +431,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 42495.0,
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -449,7 +442,7 @@
       "make": "Ford",
       "model": "Maverick",
       "condition": "used",
-      "price": 31995.0,
+      "price": 31495.0,
       "price_currency": "CAD"
     },
     {
@@ -460,7 +453,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 27995.0,
+      "price": 25495.0,
       "price_currency": "CAD"
     },
     {
@@ -526,7 +519,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 23995.0,
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
