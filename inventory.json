@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-11-18T03:40:04",
-  "vehicle_count": 236,
+  "generated_at": "2026-11-18T09:57:54",
+  "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -25,17 +25,6 @@
       "model": "3 Series",
       "condition": "used",
       "price": 11995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Honda CR-V EX 4WD - GREAT CONDITION - WELL MAINTAINED!",
-      "vin": "5J6RE4H5XBL812546",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/77f7dd042fb9.html",
-      "year": 2011,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 13995.0,
       "price_currency": "CAD"
     },
     {
@@ -69,17 +58,6 @@
       "model": "CLA",
       "condition": "used",
       "price": 21495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 BMW X5 xDrive40e - PLUG IN HYBRID LUXURY!",
-      "vin": "5UXKT0C53G0S78410",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e760ce01db26.html",
-      "year": 2016,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 16999.0,
       "price_currency": "CAD"
     },
     {
@@ -332,11 +310,11 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 32995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Acura MDX A-Spec",
+      "name": "2023 Acura MDX A-Spec - SH-AWD - FULLY LOADED - 3 ROW!",
       "vin": "5J8YE1H01PL802971",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/555e291b8b14.html",
       "year": 2023,
@@ -366,17 +344,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda HR-V Sport AWD CVT - CERTIFIED - PRACTICAL!",
-      "vin": "3CZRZ2H50PM104532",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/fb689802c220.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 26495.0,
       "price_currency": "CAD"
     },
     {

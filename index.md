@@ -1,6 +1,6 @@
 # Destination Burnaby Honda (Happy Honda)
 
- dealership in Burnaby. AI-readable inventory mirror, about 236 vehicles.
+ dealership in Burnaby. AI-readable inventory mirror, about 233 vehicles.
 
 - Official website: https://www.destinationhonda.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/
