@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Burnaby Honda Happy Honda",
-  "generated_at": "2026-11-18T12:16:04",
+  "generated_at": "2026-11-18T20:24:16",
   "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -26,6 +26,15 @@
       "condition": "used",
       "price": 11995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2012 Honda Civic Coupe EX",
+      "vin": "2HGFG3B56CH003731",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/ea2af32bc221.html",
+      "year": 2012,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used"
     },
     {
       "name": "2012 Nissan Altima 2.5 SL - LEATHER INTERIOR - WELL MAINTAINED!",
@@ -58,17 +67,6 @@
       "model": "CLA",
       "condition": "used",
       "price": 21495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda Fit EX CVT - HUGE PRACTICALITY - COMPACT FOOTPRINT!",
-      "vin": "3HGGK5H73GM102358",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/8b3f5ea3e6a9.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "Fit",
-      "condition": "used",
-      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -127,6 +125,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Ford Expedition Platinum - FULLY LOADED - ECOBOOST POWER!",
+      "vin": "1FMJU1MT7JEA29580",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/e71f614df905.html",
+      "year": 2018,
+      "make": "Ford",
+      "model": "Expedition",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Nissan Rogue SL AWD - UPGRADED INTERIOR - LOW KM!",
       "vin": "5N1AT2MV4JC738845",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/c194dcaf26f0.html",
@@ -160,14 +169,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Honda CR-V Touring AWD - FULLY LOADED - PRACTICAL!",
-      "vin": "2HKRW2H95LH211934",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/894d66a69d2f.html",
+      "name": "2020 Mitsubishi Outlander ES S-AWC - 3 ROW - ALL WEATHER CAPABLE!",
+      "vin": "JA4AZ2A30LJ600220",
+      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/413d9ad78eb9.html",
       "year": 2020,
-      "make": "Honda",
-      "model": "CR-V",
+      "make": "Mitsubishi",
+      "model": "Outlander",
       "condition": "used",
-      "price": 30998.0,
+      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
@@ -281,17 +290,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Honda CR-V Touring AWD - FULLY LOADED - CERTIFIED!",
-      "vin": "2HKRW2H95MH223227",
-      "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/455efe013e32.html",
-      "year": 2021,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 30998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Nissan Qashqai S FWD - PRACTICAL CITY CROSSOVER!",
       "vin": "JN1BJ1AV1MW311724",
       "url": "https://willyml1979-dotcom.github.io/destination-burnaby-honda-happy-honda-mirror/used/af7e561ca251.html",
@@ -332,7 +330,7 @@
       "make": "BMW",
       "model": "iX",
       "condition": "used",
-      "price": 56995.0,
+      "price": 56495.0,
       "price_currency": "CAD"
     },
     {
